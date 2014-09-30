@@ -1,0 +1,28 @@
+{
+  "name": "cymb-storage",
+  "description": "Cloud storage abstraction",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Nurul Arif Setiawan",
+      "email": "n.arif.setiawan@gmail.com",
+      "github": "https://github.com/arifsetiawan"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cymb/storage.git"
+  },
+  "homepage": "https://github.com/cymb/storage",
+  "keywords": [],
+  "main": "lib/storage.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.4",
+    "should": "~4.0.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
